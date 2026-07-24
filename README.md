@@ -1,7 +1,5 @@
 # Trader Performance vs Market Sentiment
 
-### Primetrade.ai – Data Science / Analytics Internship Assignment
-
 ---
 
 ## Project Objective
